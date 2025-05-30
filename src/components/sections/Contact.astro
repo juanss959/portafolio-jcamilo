@@ -1,0 +1,34 @@
+---
+import Section from "@/components/Section.astro";
+import WhatsApp from "@/icons/WhatsApp.astro"; // Importar el componente con el nombre correcto
+
+const phoneNumber = "573205820685"; // Tu número sin + ni espacios
+const whatsappUrl = `https://wa.me/${phoneNumber}`;
+---
+
+<Section title="Contacto">
+  <p>Puedes contactarme a través de WhatsApp:</p>
+  <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
+    <WhatsApp /> {/* Usar el componente con el nombre correcto */}
+    Enviar Mensaje
+  </a>
+</Section>
+
+<style>
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #25D366; /* Color típico de WhatsApp */
+    text-decoration: none;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Estilos para el icono si es necesario */
+  /* WhatsApp { width: 24px; height: 24px; fill: #25D366; } */
+</style> 

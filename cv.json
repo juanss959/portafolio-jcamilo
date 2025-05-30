@@ -1,0 +1,281 @@
+{
+  "basics": {
+    "name": "Juan Camilo Mendoza",
+    "label": "Desarrollador junior",
+    "image": "/meee.png",
+    "phone": "+57 3205820685",
+    "url": "https://github.com/rodriguezjuancamilo13",
+    "summary": "Estudiante de séptimo semestre de Ingeniería de Sistemas con enfoque en desarrollo. Experiencia práctica en desarrollo web tanto frontend como backend, utilizando tecnologías como Node.js, PHP, JavaScript, Python, HTML, CSS y WordPress. Conocimientos en bases de datos relacionales como MySQL y PostgreSQL, así como en administración de servidores. Destaco por mi razonamiento lógico y capacidad para resolver problemas, comunicación efectiva y rápida capacidad de aprendizaje.",
+    "location": {
+      "address": "Bogotá, Colombia",
+      "postalCode": "110111",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "juan-camilo-rodriguez",
+        "url": "https://www.linkedin.com/in/juan-camilo-rodriguez-b336621a2"
+      },
+      {
+        "network": "GitHub",
+        "username": "rodriguezjuancamilo13",
+        "url": "https://github.com/rodriguezjuancamilo13"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TechSolution",
+      "position": "Desarrollador Web",
+      "summary": "Desarrollador web especializado en WordPress y desarrollo frontend/backend. Responsable del diseño y personalización de sitios web, implementación de funcionalidades dinámicas y optimización de rendimiento. Experiencia en integración de bases de datos y automatización de procesos.",
+      "highlights": [
+        "Diseño y personalización de sitios web en WordPress, integrando plugins y temas según necesidades del cliente",
+        "Maquetación de interfaces web responsivas con HTML5 y CSS3, optimizadas para diferentes dispositivos",
+        "Implementación de funcionalidades dinámicas con JavaScript para mejorar la experiencia de usuario",
+        "Desarrollo de scripts en Python para automatización de procesos y procesamiento de datos",
+        "Integración de bases de datos MySQL y PostgreSQL con aplicaciones web",
+        "Mantenimiento y mejora continua de sitios web, asegurando rendimiento y seguridad",
+        "Reducción del 40% en tiempo de carga de páginas mediante optimización de código",
+        "Automatización de procesos que disminuyó el tiempo manual de trabajo en un 60%"
+      ],
+      "startDate": "2025-01-01",
+      "endDate": "2025-04-30"
+    },
+    {
+      "name": "Dar ayuda",
+      "position": "Auxiliar de Bodega",
+      "summary": "Auxiliar de bodega encargado del manejo de inventario, picking y packing de productos, y organización del almacén.",
+      "highlights": [
+        "Realización de picking y packing de productos según órdenes de pedido",
+        "Control y organización de inventario en bodega",
+        "Manejo de sistemas de gestión de almacén",
+        "Preparación de pedidos para envío",
+        "Verificación de productos y calidad",
+        "Mantenimiento del orden y limpieza en el área de trabajo"
+      ],
+      "startDate": "2024-06-01",
+      "endDate": "2024-12-31"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad de Monserrate",
+      "area": "Ingeniería de Sistemas\nséptimo semestre VII",
+      "studyType": "Pregrado",
+      "startDate": "2023",
+      "endDate": null,
+      "summary": "Cursando séptimo semestre de Ingeniería de Sistemas"
+    },
+    {
+      "institution": "SENA",
+      "area": "Técnico en Desarrollo de Software",
+      "studyType": "Técnico",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Formación técnica en desarrollo de software"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Programación",
+        "Backend",
+        "Análisis de Datos"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript",
+        "Librería"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Wordpress",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "CMS"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Node.js Framework"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "NoSQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Desarrollo Web",
+      "keywords": [
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tecnología",
+      "keywords": [
+        "Programación",
+        "Inteligencia Artificial",
+        "Cloud Computing"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Plataforma tipo e-commerce universitaria – Unimonserrate",
+      "isActive": true,
+      "description": "Desarrollé una plataforma web simulando un sistema de e-commerce enfocado en la comunidad estudiantil de la Universidad Unimonserrate. El sistema fue desarrollado localmente utilizando Apache y phpMyAdmin. Se implementaron funcionalidades de registro, login, visualización de productos, gestión de usuarios y conexión con una base de datos relacional. Utilicé tecnologías como HTML, CSS, JavaScript, y PHP para el frontend y backend, junto con MySQL para el manejo de datos.",
+      "highlights": [
+        "Maquetación de interfaces web",
+        "Lógica de conexión entre cliente y servidor",
+        "Configuración de base de datos relacional",
+        "Desarrollo local con Apache y phpMyAdmin"
+      ]
+    },
+    {
+      "name": "Desarrollo de Sitio Web para Ferretería",
+      "isActive": true,
+      "description": "Creación de un sitio web completo para una ferretería local utilizando tecnologías frontend estándar (HTML, CSS, JavaScript). El sitio incluye un catálogo de productos detallado, información de contacto, mapa de ubicación, y un formulario de contacto interactivo.",
+      "highlights": [
+        "Maquetación y diseño responsivo con HTML y CSS",
+        "Implementación de funcionalidades interactivas con JavaScript (por ejemplo, galería de imágenes, validación de formulario)",
+        "Diseño centrado en la experiencia del usuario para un negocio local",
+        "Creación de un catálogo de productos organizado",
+        "Integración de mapa interactivo con la ubicación de la tienda",
+        "Desarrollo de formulario de contacto funcional"
+      ]
+    },
+    {
+      "name": "Desarrollo y Optimización de API con Python",
+      "isActive": true,
+      "description": "Creación de una API RESTful utilizando Python, o la mejora del rendimiento de una API o proceso backend existente, demostrando habilidades en desarrollo backend y optimización.",
+      "highlights": [
+        "Diseño e implementación de endpoints de API",
+        "Manejo de solicitudes y respuestas",
+        "Posible interacción con base de datos",
+        "Aplicación de técnicas para mejorar la eficiencia del código Python"
+      ]
+    },
+    {
+      "name": "Análisis y transformación de datos con pandas y visualización en Power BI",
+      "isActive": true,
+      "description": "Proyecto de análisis y transformación de datos con pandas en Jupyter Notebook para validar calidad, transformar (priorizando Parquet) e importar a Power BI para visualización en paneles interactivos.",
+      "highlights": [
+        "Análisis y transformación de datos con pandas",
+        "Validación de calidad de datos (errores, nulos, duplicados)",
+        "Transformación de datos a varios formatos (incluyendo Parquet)",
+        "Visualización de datos en Power BI",
+        "Desarrollo de paneles interactivos"
+      ]
+    },
+    {
+      "name": "Portafolio Personal",
+      "isActive": true,
+      "description": "Sitio web desarrollado con React y Node.js",
+      "highlights": [
+        "Desarrollo Frontend con React",
+        "Desarrollo Backend con Node.js",
+        "Diseño responsivo",
+        "Integración de API"
+      ]
+    }
+  ]
+}
